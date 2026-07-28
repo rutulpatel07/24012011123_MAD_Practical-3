@@ -7,12 +7,31 @@ Create an Android application which demonstrates implicit and explicit Intent.
 
 ## Application Demo
 
-| Recording Demo | Steps Performed |
-| :--- | :--- |
-| <div align="center">![Practical 3 Demo](media/demo_video.mp4)<br><i>(Demo Video)</i></div> | 1. **Web Browse**: Entered a URL and clicked "Browse" to open the browser.<br>2. **Phone Call**: Entered a number and clicked "Call" to open the dialer.<br>3. **Call Log**: Clicked "Call Log" to view recent calls (handled permission).<br>4. **Gallery**: Clicked "Gallery" to open the system photo picker.<br>5. **Camera**: Clicked "Camera" to capture an image.<br>6. **Set Alarm**: Clicked "Alarm" to set a 7:30 AM wake-up alarm.<br>7. **Login Navigation**: Clicked "Login" to navigate to the Login Activity. |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-> [!NOTE]
-> The table above represents a 70:30 visual ratio for the video and steps description respectively when rendered in a standard markdown viewer.
+### 🎥 Demo
+
+https://github.com/user-attachments/assets/7f6118af-51a4-4e22-ae59-134f6b474d46
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📝 Steps
+
+1. **Web Browse**
+2. **Phone Call**
+3. **Call Log**
+4. **Gallery**
+5. **Camera**
+6. **Set Alarm**
+7. **Login Navigation**
+
+</td>
+</tr>
+</table>
 
 ---
 
