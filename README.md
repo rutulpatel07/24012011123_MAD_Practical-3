@@ -9,7 +9,7 @@ Create an Android application which demonstrates implicit and explicit Intent.
 
 | Recording Demo | Steps Performed |
 | :--- | :--- |
-| <div align="center"><video src="media/demo_video.mp4" width="280" controls>Your browser does not support the video tag.</video><br><i>(Save your recording as media/demo_video.webm)</i></div> | 1. **Web Browse**: Entered a URL and clicked "Browse" to open the browser.<br>2. **Phone Call**: Entered a number and clicked "Call" to open the dialer.<br>3. **Call Log**: Clicked "Call Log" to view recent calls (handled permission).<br>4. **Gallery**: Clicked "Gallery" to open the system photo picker.<br>5. **Camera**: Clicked "Camera" to capture an image.<br>6. **Set Alarm**: Clicked "Alarm" to set a 7:30 AM wake-up alarm.<br>7. **Login Navigation**: Clicked "Login" to navigate to the Login Activity. |
+| <div align="center"><video src="media/demo_video.webm" width="280" controls>Your browser does not support the video tag.</video><br><i>(Save your recording as media/demo_video.webm)</i></div> | 1. **Web Browse**: Entered a URL and clicked "Browse" to open the browser.<br>2. **Phone Call**: Entered a number and clicked "Call" to open the dialer.<br>3. **Call Log**: Clicked "Call Log" to view recent calls (handled permission).<br>4. **Gallery**: Clicked "Gallery" to open the system photo picker.<br>5. **Camera**: Clicked "Camera" to capture an image.<br>6. **Set Alarm**: Clicked "Alarm" to set a 7:30 AM wake-up alarm.<br>7. **Login Navigation**: Clicked "Login" to navigate to the Login Activity. |
 
 > [!NOTE]
 > The table above represents a 70:30 visual ratio for the video and steps description respectively when rendered in a standard markdown viewer.
